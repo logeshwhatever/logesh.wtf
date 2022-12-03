@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/logesh.wtf/static/css/main.5f5fedc7.css",
-    "main.js": "/logesh.wtf/static/js/main.b5c6aab6.js",
+    "main.js": "/logesh.wtf/static/js/main.8dcc1c22.js",
     "static/js/787.f38331a1.chunk.js": "/logesh.wtf/static/js/787.f38331a1.chunk.js",
     "index.html": "/logesh.wtf/index.html",
     "main.5f5fedc7.css.map": "/logesh.wtf/static/css/main.5f5fedc7.css.map",
-    "main.b5c6aab6.js.map": "/logesh.wtf/static/js/main.b5c6aab6.js.map",
+    "main.8dcc1c22.js.map": "/logesh.wtf/static/js/main.8dcc1c22.js.map",
     "787.f38331a1.chunk.js.map": "/logesh.wtf/static/js/787.f38331a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f5fedc7.css",
-    "static/js/main.b5c6aab6.js"
+    "static/js/main.8dcc1c22.js"
   ]
 }
